@@ -9,7 +9,7 @@ public class Hello {
 		hello.methodC();
 	}
 
-	public void methodA(void ) { }
+	public void methodA(void ) {/* Hi nikhil*/ }
 
 	public void methodB(void) { }
 
