@@ -1,6 +1,6 @@
 
 public class Hello {
-
+	// Changes made
 	public static main(String[] args) 
 	{
 		Hello hello = new Hello();
