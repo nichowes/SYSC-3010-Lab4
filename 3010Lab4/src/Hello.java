@@ -11,7 +11,7 @@ public class Hello {
 
 	public void methodA(void ) {/* Hi nikhil*/ }
 
-	public void methodB(void) { }
+	public void methodB(void) { /* Hi Nic*/}
 
 	public void methodC(void) { }
 }
